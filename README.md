@@ -49,7 +49,7 @@ Module	Description
 
 - SQ1	Setup Banking Database and Explore Table Structure using DDL commands, constraints, and schema validation.
 
--SQ2	Implement Secure Banking Data Model with primary keys, foreign keys, constraints, triggers, and business rule enforcement.
+- SQ2	Implement Secure Banking Data Model with primary keys, foreign keys, constraints, triggers, and business rule enforcement.
 
 - SQ3	Initialize Banking Data using INSERT, UPDATE, and DELETE operations while maintaining data integrity.
 
